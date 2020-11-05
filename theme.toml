@@ -8,7 +8,4 @@ tags = ['blog','material design']
 features = ['toc','waterfall layout','disqus']
 min_version = "0.31.1"
 
-[author]
-  name = "Kevin Tan"
-  homepage = "https://keyin.me"
 
